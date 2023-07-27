@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="b49f7d9d07103110ed93f0ef7c1ed0c2" label="Courses" max_length="40" name="x_1049354_computer_courses" type="collection">
+        <element label="Course Description" max_length="4000" name="course_description" type="string_full_utf8"/>
         <element attributes="edge_encryption_enabled=true" label="Course Name" max_length="40" name="course_name" type="string"/>
         <element choice="1" label="Course Status" max_length="40" name="course_status" type="choice">
             <choice>
@@ -8,12 +9,40 @@
                 <element inactive_on_update="false" label="Not Started" value="1"/>
             </choice>
         </element>
+        <element choice="1" label="Final Grade" max_length="40" name="final_grade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="A (4.0)" value="1"/>
+                <element inactive_on_update="false" label="A- (3.75)" value="2"/>
+                <element inactive_on_update="false" label="B (3.0)" value="4"/>
+                <element inactive_on_update="false" label="B+ (3.25)" value="3"/>
+                <element inactive_on_update="false" label="B- (2.75)" value="5"/>
+                <element inactive_on_update="false" label="C (2.0)" value="7"/>
+                <element inactive_on_update="false" label="C+ (2.25)" value="6"/>
+                <element inactive_on_update="false" label="C- (1.75)" value="8"/>
+                <element inactive_on_update="false" label="D (1.0)" value="10"/>
+                <element inactive_on_update="false" label="D+ (1.25)" value="9"/>
+                <element inactive_on_update="false" label="D- (0.75)" value="11"/>
+                <element inactive_on_update="false" label="F (0.0)" value="12"/>
+            </choice>
+        </element>
+        <element label="Instructor" max_length="32" name="instructor" reference="x_1049354_computer_instructors" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element choice="1" label="Programming Language" max_length="40" name="programming_language" type="choice">
-            <choice/>
+            <choice>
+                <element inactive_on_update="false" label="C#" value="1"/>
+                <element inactive_on_update="false" label="C++" value="2"/>
+                <element inactive_on_update="false" label="JavaScript" value="5"/>
+                <element inactive_on_update="false" label="Kotlin" value="3"/>
+                <element inactive_on_update="false" label="MIPS Assembly" value="6"/>
+                <element inactive_on_update="false" label="Other" value="7"/>
+                <element inactive_on_update="false" label="Python" value="4"/>
+            </choice>
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <index name="index">
+            <element name="instructor"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

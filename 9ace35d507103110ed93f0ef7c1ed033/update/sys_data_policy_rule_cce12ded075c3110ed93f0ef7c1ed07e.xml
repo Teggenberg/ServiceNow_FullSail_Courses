@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>final_grade</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 17:31:10</sys_created_on>
+        <sys_data_policy display_value="request grade if course status is &quot;Complete&quot;">6241a1ed075c3110ed93f0ef7c1ed0bf</sys_data_policy>
+        <sys_id>cce12ded075c3110ed93f0ef7c1ed07e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>final_grade</sys_name>
+        <sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope>
+        <sys_update_name>sys_data_policy_rule_cce12ded075c3110ed93f0ef7c1ed07e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 17:33:10</sys_updated_on>
+        <table>x_1049354_computer_courses</table>
+    </sys_data_policy_rule>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">f3c3469107503110ed93f0ef7c1ed0d2</sp_column>
+        <sp_widget display_value="ISC Banner">85b3ea5453602300a8ed21fac2dc34b4</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:06:55</sys_created_on>
+        <sys_id>ce2a29a5079c3110ed93f0ef7c1ed0e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope>
+        <sys_update_name>sp_instance_ce2a29a5079c3110ed93f0ef7c1ed0e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 18:06:55</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=ce2a29a5079c3110ed93f0ef7c1ed0e5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</application>
+        <file_path/>
+        <instance_id>4f2758acdb74bf402f68c5970596192b</instance_id>
+        <instance_name>dev80060</instance_name>
+        <name>sp_instance_ce2a29a5079c3110ed93f0ef7c1ed0e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">f3c3469107503110ed93f0ef7c1ed0d2</sp_column><sp_widget display_value="ISC Banner">85b3ea5453602300a8ed21fac2dc34b4</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 18:06:55</sys_created_on><sys_id>ce2a29a5079c3110ed93f0ef7c1ed0e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package><sys_policy/><sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope><sys_update_name>sp_instance_ce2a29a5079c3110ed93f0ef7c1ed0e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 18:06:55</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=ce2a29a5079c3110ed93f0ef7c1ed0e5"/></record_update>]]></payload>
+        <payload_hash>2016850020</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>09dec65d07503110ed93f0ef7c1ed094</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:06:56</sys_created_on>
+        <sys_id>162a29a5079c3110ed93f0ef7c1ed0e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18998884b450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 18:06:56</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>5a2a29a5f39c311052617a474e1412e7</update_guid>
+        <update_guid_history>5a2a29a5f39c311052617a474e1412e7:2016850020</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0c3a2565079c3110ed93f0ef7c1ed0ab</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:07:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>196cffd86ae348c5b966116bcfc3c459</sys_id>
+        <sys_metadata>ce2a29a5079c3110ed93f0ef7c1ed0e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope>
+        <sys_scope_delete display_value="">994d3da770f54f7580b9d9ee9d0703c9</sys_scope_delete>
+        <sys_update_name>sp_instance_ce2a29a5079c3110ed93f0ef7c1ed0e5</sys_update_name>
+        <sys_update_version display_value="sp_instance_ce2a29a5079c3110ed93f0ef7c1ed0e5">162a29a5079c3110ed93f0ef7c1ed0e8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 18:07:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

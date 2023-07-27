@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image>ceb86de1079c3110ed93f0ef7c1ed0ee</background_image>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Full Sail Course Overview - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="full_sail_course_overview">ec430a5107503110ed93f0ef7c1ed02c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 17:59:13</sys_created_on>
+        <sys_id>0d68a165079c3110ed93f0ef7c1ed08b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Full Sail Course Overview - Container 1</sys_name>
+        <sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope>
+        <sys_update_name>sp_container_0d68a165079c3110ed93f0ef7c1ed08b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 18:00:39</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_attachment action="DELETE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>background_image</file_name>
+        <hash>658aef7a8d58d251236c3d676d21b1855b1b7535becfcfe1b7dbb56cfb7a213e</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4672</size_bytes>
+        <size_compressed>1586</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:00:38</sys_created_on>
+        <sys_id>ceb86de1079c3110ed93f0ef7c1ed0ee</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-27 18:00:39</sys_updated_on>
+        <table_name>ZZ_YYsp_container</table_name>
+        <table_sys_id>0d68a165079c3110ed93f0ef7c1ed08b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="background_image" sys_id="ceb86de1079c3110ed93f0ef7c1ed0ee">ceb86de1079c3110ed93f0ef7c1ed0ee</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:00:38</sys_created_on>
+        <sys_id>02b86de1079c3110ed93f0ef7c1ed0ef</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>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</data>
+        <length>2104</length>
+        <position>1</position>
+        <sys_attachment display_value="background_image" sys_id="ceb86de1079c3110ed93f0ef7c1ed0ee">ceb86de1079c3110ed93f0ef7c1ed0ee</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:00:38</sys_created_on>
+        <sys_id>82b86de1079c3110ed93f0ef7c1ed0ef</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</application>
+        <file_path/>
+        <instance_id>4f2758acdb74bf402f68c5970596192b</instance_id>
+        <instance_name>dev80060</instance_name>
+        <name>sp_container_0d68a165079c3110ed93f0ef7c1ed08b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image>ceb86de1079c3110ed93f0ef7c1ed0ee</background_image><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Full Sail Course Overview - Container 1</name><order>1</order><sp_page display_value="full_sail_course_overview">ec430a5107503110ed93f0ef7c1ed02c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 17:59:13</sys_created_on><sys_id>0d68a165079c3110ed93f0ef7c1ed08b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Full Sail Course Overview - Container 1</sys_name><sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package><sys_policy/><sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope><sys_update_name>sp_container_0d68a165079c3110ed93f0ef7c1ed08b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-07-27 18:00:39</sys_updated_on><title/><width>container</width></sp_container><sys_attachment action="INSERT_OR_UPDATE"><average_image_color/><chunk_size_bytes>700000</chunk_size_bytes><compressed>true</compressed><content_type>image/svg+xml</content_type><file_name>background_image</file_name><hash>658aef7a8d58d251236c3d676d21b1855b1b7535becfcfe1b7dbb56cfb7a213e</hash><image_height/><image_width/><size_bytes>4672</size_bytes><size_compressed>1586</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 18:00:38</sys_created_on><sys_id>ceb86de1079c3110ed93f0ef7c1ed0ee</sys_id><sys_mod_count>1</sys_mod_count><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-27 18:00:39</sys_updated_on><table_name>ZZ_YYsp_container</table_name><table_sys_id>0d68a165079c3110ed93f0ef7c1ed08b</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAAAA==</data><length>16</length><position>0</position><sys_attachment display_value="background_image" sys_id="ceb86de1079c3110ed93f0ef7c1ed0ee">ceb86de1079c3110ed93f0ef7c1ed0ee</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 18:00:38</sys_created_on><sys_id>02b86de1079c3110ed93f0ef7c1ed0ef</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>5VhLb9tGED43v4JgryTF2eWSXMcO0BoFXEC+5lo4jGoZYS3DVGUnRf9755uZpZTaZW49tDCWuxrO+7VDn0+H2+z5t/F+usi3+/3D2Wr19PRUPflq93i7cnVdrxgjV5Sz5/Hu/tNriBRjXMnbPDtsHqe73f1FThXl2d3Hi/znaTfe7Bn2y/Xu44aZXeT1w3Oefbb9cLd5+nEHaFZnFLuqyZyvYp5N+8/j5iLf3N98GDflh5vh0+3j7vf7j2f3m6fsa+S3ouPZ9HAzMMXD42baPB42+bs358Ik239+YPh+87xfDdPE8O+qaV//8evdOJ59/1MInQtv/xQgGTD8gD8Gnq+Exbs3WXa+v9vzadzd7s5Xegb04Wa/zYbxZmIvMtc8Y6Ov+4oK8hUNdeXKuvIFL96btI/8iLzCwA8qFMvx3hhWe9lVoSBX9UXHi3yRWH7Jrh3AbRWzbExMwaflQyip6gpiKa6KhavcWBc11sAAxy+6smFiX7VpH5SwYeSG34fCF0zE72t590IxmJNlg/6C6kpdM7e66kaFNbz3oNzyb15uEHiRnsxxODnrU9xFx19pF2kz9byYZ1Gf8KTh5GxupZH9Ae/HLSDiiL/xEU6KrqZqvFjoDCTj6JQjc4OnwegUZSv24rEmjlinUXal0VBSYFRgD6BPwDVxcJqqg63MsJFYIUaISTck4RYE0mgPiQMyyc5YvcWtsbhFiRtpliSk1ogQpl6tdZaeweKMiIIXGSzx6hIvOlku7cPR/c52L+FOldAYu04lX3KeQ9eGTYr8AnkZhY0SSAD1OZxGYxYwaCRJdEMedwj4cCw5mAlYz3pzNl1GltCLFOyd7eFEcW97I4o3VlyxhJRmtt5YS36JCLxQt3kpJcC07GhsWVmHmh2OfpEWIEWJfCBtCKjNgEKmsoXIls++8hN+FQz0YM7AiagQUIuirfwlt8K2oJ4fLgAHklOr+JJl2XVENmmEWtNRC9j2Ue1xp2nS2YrwnXgusswIItiQWH7JV690Q9Ju6LkWoITUA8zdwoiDq/zWVe1BADg0VcCB3jPuFYgWuTaMCa6Hlguk1mBZG4IQWInIBIP1CB0iYhFCKIMkCElxzO0Ef4iSRlZDDwdAK9aXWF4cLPqSmGRmtYMlQy9Nh/ORzUR442BdiNg6kQn7GdYMpWVXqa1bMpZ3ThNxAmxcJ0MXvRHQ7+ENTuSt50ZsprFrQ9UIM6CsE94is5Y0YGB21YaXvC5DZIOQfQl1Piwy7nomi1yyllWwWZuQEz/06QWZx+AMiKZXm30ozOGSwTSSXlUcPa0+zn/J7iA71ybvJDekZ85osh4xEDLTwCNmCPeoccQdKO2e2WgaOeuLQgWoFTGwG0ucrtSO62x53EPIE2kcvRkYBMuddmbNDrI0YOFIBslUL9p22E2006sfNhTc1tbJuYsR6LkPSS2CH1euR8W5UXRmhlyZci7kjOzrJapXoOPRo2d3erv5vNkUgGf35dEEsVL2URzk0g3TWVd35re4Fqb6XNQ9em1mB5KblvWWvAZ4mS4e0/kfagMo64S3yIyITIv/cN8RI5fdkG6W0fGNTTYPRjM4SkE6aKBJoSnvbFJgUrXqGEkUCJI7aiLJuCLF42TcgOaNWa9e1BHRSaESq4B0Vd2h2bLu3mv3msXrlSPwb1CqzWghQS57mtsQpS5hF3xn7cvLNOVAw+lGWzHW6wXK1Ue4F9GO8JNV4IlobWKWVQn+xZ0aDihbB8P0To0M6DjlAei3ZatmBr826m9IiHpXDCSJIt6WwHoMWSfjto7w6g6yMdHB6AqY4pBingS1r1uf1kkE7YYHP31C7zlBrZGW0rUH2STLwVoyxs3fUCczqIxvPE74OSdgyno2SKYhCvJJxcy2Wp3BqpOkumSysyEyTa2thnQ4NjonvbqTOjaVU7pr78f3DzDWR3EI8PxjOQIdycD1v7kvfVr/xn05e/cbMejY/leaBeDLlH3HXrQa9YWVZCO3kLDhUR2HoPyAvZ5pljlH0gY20lcV1hTHNhzsa4TK4/8f+vQhOGoJ9dwrmlG+KDB9uyuK7oA4A+bKNsuuRNR6FihqneP/Qu/e/AXHhbE9QBIAAA==</data><length>2104</length><position>1</position><sys_attachment display_value="background_image" sys_id="ceb86de1079c3110ed93f0ef7c1ed0ee">ceb86de1079c3110ed93f0ef7c1ed0ee</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2023-07-27 18:00:38</sys_created_on><sys_id>82b86de1079c3110ed93f0ef7c1ed0ef</sys_id></sys_attachment_doc></record_update>]]></payload>
+        <payload_hash>0</payload_hash>
+        <record_name>Full Sail Course Overview - Container 1</record_name>
+        <reverted_from/>
+        <source>09dec65d07503110ed93f0ef7c1ed094</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:00:39</sys_created_on>
+        <sys_id>9ab865a5079c3110ed93f0ef7c1ed0b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18998828c050000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 18:00:39</sys_updated_on>
+        <type>Container</type>
+        <update_guid>52b865a5409c31108b07117c71dbfdb3</update_guid>
+        <update_guid_history>52b865a5409c31108b07117c71dbfdb3:-1746321265,dab865a58a9c3110fd8bf85b157928af:-1618360767,0968a165f49c31108d6cb792232ef88d:365999603</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Full Sail Course Overview - Container 1">b919e9a5079c3110ed93f0ef7c1ed053</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 18:02:16</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>2cefb15f241347d691605a282d7aa631</sys_id>
+        <sys_metadata>0d68a165079c3110ed93f0ef7c1ed08b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Full Sail Course Overview - Container 1</sys_name>
+        <sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope>
+        <sys_scope_delete display_value="">994d3da770f54f7580b9d9ee9d0703c9</sys_scope_delete>
+        <sys_update_name>sp_container_0d68a165079c3110ed93f0ef7c1ed08b</sys_update_name>
+        <sys_update_version display_value="sp_container_0d68a165079c3110ed93f0ef7c1ed08b">9ab865a5079c3110ed93f0ef7c1ed0b3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 18:02:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
