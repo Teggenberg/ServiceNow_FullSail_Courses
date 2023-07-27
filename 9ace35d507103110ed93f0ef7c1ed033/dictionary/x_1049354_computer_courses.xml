@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b49f7d9d07103110ed93f0ef7c1ed0c2" label="Courses" max_length="40" name="x_1049354_computer_courses" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Course Name" max_length="40" name="course_name" type="string"/>
+        <element choice="1" label="Course Status" max_length="40" name="course_status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Completed" value="3"/>
+                <element inactive_on_update="false" label="In Progress" value="2"/>
+                <element inactive_on_update="false" label="Not Started" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Programming Language" max_length="40" name="programming_language" type="choice">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

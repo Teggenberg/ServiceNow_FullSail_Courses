@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="INSERT_OR_UPDATE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Full Sail Course Overview - Container 1">3c438a9107503110ed93f0ef7c1ed074</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-27 01:20:31</sys_created_on>
+        <sys_id>b7c3469107503110ed93f0ef7c1ed0cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Computer Science Course Schedule" source="x_1049354_computer">9ace35d507103110ed93f0ef7c1ed033</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Computer Science Course Schedule">9ace35d507103110ed93f0ef7c1ed033</sys_scope>
+        <sys_update_name>sp_row_b7c3469107503110ed93f0ef7c1ed0cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-27 01:20:31</sys_updated_on>
+    </sp_row>
+</record_update>
